@@ -1,0 +1,16 @@
+Frame:
+    define(self, symbol, value)
+    lookup(self, symbol)
+    def make_child_frame(self, formals, vals)
+
+class LambdaProcedure(Procedure):
+    def __init__(self, formals, body, env)
+
+def scheme_eval(expr, env, _=None): 
+    # return the value of given expr -> Pair(a (Pair(b, nil)))
+
+def eval_all(expressions, env)
+
+def do_lambda_form(expressions, env)
+    formal args -> expressions.first
+    body -> expressions.rest

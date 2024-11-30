@@ -1,0 +1,5 @@
+'cadr-caddr-correct', (0, 70)
+'ascending?-correct', (512, 70)
+'interleave-correct', (1024, 70)
+'my-filter-correct', (1536, 70)
+'no-repeats-correct', (2048, 70)

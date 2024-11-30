@@ -1,0 +1,5 @@
+'repeated-correct', (0, 70)
+'merge-correct', (512, 70)
+'deep_len-correct', (1024, 70)
+'add_d_leaves-correct', (1536, 70)
+'subseqs-correct', (2048, 70)
